@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 797b0b15b97a43b292aaf44b400d2785, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: 
+  _panels:
+  - <Id>k__BackingField: ClickerPanel
+    <Prefab>k__BackingField: {fileID: 4197250988109109767, guid: d9d090c1193b7e6429aaaad943d6de79, type: 3}
+  - <Id>k__BackingField: FactPanel
+    <Prefab>k__BackingField: {fileID: 148769377305252985, guid: d541ffac9f9635845a2121cb998f80f4, type: 3}
+  _views:
+  - <Id>k__BackingField: FactView
+    <Prefab>k__BackingField: {fileID: 4297671228787459631, guid: c6c213e5897fddd45a4b8ac09cd32ec4, type: 3}
+  - <Id>k__BackingField: SwitchPanelView
+    <Prefab>k__BackingField: {fileID: 1168687846629745908, guid: eb35cf01fd7064d41bcbb50166a15ee6, type: 3}
+  _popups:
+  - <Id>k__BackingField: SimplePopup
+    <Prefab>k__BackingField: {fileID: 6464787928143324428, guid: 6c3175288890e3046b250d2b37cdf870, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78ba9ecf39da420aad953b801b757aed, type: 3}
+  m_Name: GameConfiguration
+  m_EditorClassIdentifier: 
+  <WeatherConfig>k__BackingField: {fileID: 11400000, guid: db563343f523fda4fb7c1432afdb66ab, type: 2}
+  <CurrencyConfig>k__BackingField: {fileID: 11400000, guid: 9747386b5906b8249b8f94c148e74e93, type: 2}
+  <AudioConfig>k__BackingField: {fileID: 11400000, guid: 4e0227b69a389874984539b7e827c0ee, type: 2}
+  <FactConfig>k__BackingField: {fileID: 11400000, guid: 050fdcab71120dc4c810731ee780d17a, type: 2}
+  <EnergyConfig>k__BackingField: {fileID: 11400000, guid: 50898627efad8014b8a36b4ed74222c6, type: 2}
+  <UIConfig>k__BackingField: {fileID: 11400000, guid: e63bdecce9c290343af2042d3805d2d6, type: 2}
+  <SceneConfig>k__BackingField: {fileID: 11400000, guid: 40ec778bb358857499709fc9a67c7eab, type: 2}
